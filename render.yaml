@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: spreadsheet-skills-baseline
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./dist
